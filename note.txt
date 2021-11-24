@@ -1,0 +1,23 @@
+font-family: 'PT Sans', sans-serif;
+
+To view Gridline In PSD: ctrl+;
+To comment Sublime Text: ctrl+/
+
+Color===============
+
+Black: #010101
+Yellow: #fcdb00
+Ash: #898989
+
+Font Size==================
+
+xxl xl lg     md   sm col 
+
+header font -
+22			 22     20
+
+
+padding==========================
+
+header -
+20 			20		10
